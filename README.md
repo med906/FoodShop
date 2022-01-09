@@ -7,30 +7,15 @@
 
 
 ## Front Page
-<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/hometop.png"></img></p>
-<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/homeMiddle.png"></img></p>
-<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/homebottom.png"></img></p>
-
-
-## Shop Page
-<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/ShopTop1.png"></img></p>
-<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/ShopMid1.png"></img></p>
-<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/shopMid2.png"></img></p>
-<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/shopMid3.png"></img></p>
-<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/shopBottom.png"></img></p>
-
-
-## View Products Page
-<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/ViewProducts.png"></img></p>
-
-
-
-## Add Product Page
-<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/AddProduct.png"></img></p>
-
-
-## Edit Product Page
-<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/EditProduct.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Header.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/HomeTop.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Mid1.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Mid2.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Mid3.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Mid4.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Mid5.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Mid6.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/FoodShop/master/Github%20Images/Bottom.png"></img></p>
 
 
 
