@@ -3,7 +3,7 @@
 
 ## About The Webstore
 
-<p align="left">UI only for a food shop webstore: </p>
+<p align="left">UI only for a food shop webstore </p>
 
 
 ## Front Page
