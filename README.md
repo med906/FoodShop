@@ -1,33 +1,10 @@
 
- <h1 align="center" > Ecommerce Website </h1>
+ <h1 align="center" > Food Shop Website </h1>
 
 ## About The Webstore
 
-<p align="left">it's an interactive webstore that can be scaled and extanded it has fully functioning frontend and backend for the admin and the user , Developed using laravel , livewire ,Functions available: </p>
+<p align="left">UI only for a food shop webstore: </p>
 
-<p>User:</p>
-<ul>
-    <li>create account</li>
-    <li>login and out </li>
-    <li>change profile informations</li>
-    <li>view products and add/remove them from shopping cart</li>
-    <li>make an order</li>
-    <li>cancel an order</li>
-</ul>
-
-<p >Admin:</p>
-<ul>
-    <li>create account</li>
-    <li>login and out </li>
-    <li>change profile informations</li>
-    <li>view products ,add,modify and remove them form database</li>
-    <li>view slides ,add,modify,remove them form database</li>
-    <li>view categories ,add,modify,remove them form database</li>
-    <li>manage orders</li>
-    <limanage users</li>
-</ul>
-
-Some pages:
 
 ## Front Page
 <p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/hometop.png"></img></p>
